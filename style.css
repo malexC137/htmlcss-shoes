@@ -45,8 +45,6 @@ li {
 
 .box.uno {
     background-color: magenta;
-    
-
 }
 
 .box.due {
@@ -58,16 +56,15 @@ li {
 }
 
 .img-container {
-    height: 60%;
-    width: 40%;
+    height: auto;
+    width: 30%;
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -80%);
+    transform: translate(-50%, -75%);
 }
 
 h1 {
-    height: 20%;
     width: 50%;
     position: absolute;
     left: 50%;
